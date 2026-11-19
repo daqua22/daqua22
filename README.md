@@ -59,9 +59,13 @@ Coffee shop operations platform for inventory, scheduling, recipes, and daily wo
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daqua22&show_icons=true&theme=github_dark)
+### Contribution Graph
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daqua22&layout=compact&theme=github_dark)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daqua22&theme=github-compact&hide_border=true)](https://github.com/daqua22)
+
+### Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=daqua22&theme=github-dark-blue&hide_border=true)](https://github.com/daqua22)
 
 </div>
 
