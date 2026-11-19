@@ -5,7 +5,7 @@
 
 ### Software Engineering Student | Developer | Open Source
 
-Building useful software, learning new technologies, and turning ideas into real projects.
+Building useful software, learning new technologies, and turning ideas into sometimes projects.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-kozar.dev-2563EB?style=for-the-badge)](https://kozar.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-daqua22-181717?style=for-the-badge&logo=github)](https://github.com/daqua22)
